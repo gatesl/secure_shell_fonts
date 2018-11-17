@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Source Code Pro'), url('https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf' format('opentype');
+}
+body {
+  font-family: 'Source Code Pro' !important;
+}
