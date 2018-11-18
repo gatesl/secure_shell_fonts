@@ -39,9 +39,17 @@
 }
 
 @font-face {
-    font-family: "Inconsola Awesome";
-    src: local("Inconsola Awesome"),
+    font-family: "Inconsolata Awesome";
+    src: local("Inconsolata Awesome"),
          url(fonts/Inconsolata+Awesome.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Inconsolata Nerd Font Complete Mono";
+    src: local("Inconsolata Nerd Font Complete Mono"),
+         url(fonts/InconsolataNerdFontCompleteMono.woff2) format("woff2");
     font-weight: normal;
     font-style: normal;
 }
