@@ -1,0 +1,95 @@
+@font-face {
+    font-family: "Droid Sans Mono Awesome";
+    src: local("Droid Sans Mono Awesome"),
+         url(fonts/Droid+Sans+Mono+Awesome.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "trellicons";
+    src: local("trellicons"),
+         url(fonts/trellicons-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SourceCode Pro Powerline Awesome";
+    src: local("SourceCode Pro Powerline Awesome"),
+         url(fonts/SourceCodePro+Powerline+Awesome+Regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "octicons";
+    src: local("octicons"),
+         url(fonts/octicons-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Inconsolata for Powerline";
+    src: local("Inconsolata for Powerline"),
+         url(fonts/Inconsolata+for+Powerline.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Inconsola Awesome";
+    src: local("Inconsola Awesome"),
+         url(fonts/Inconsolata+Awesome.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FontAwesome Webfont";
+    src: local("FontAwesome Webfont"),
+         url(fonts/fontawesome-webfont.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Pomicons";
+    src: local("Pomicons"),
+         url(fonts/pomicons-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FontAwesome Regular";
+    src: local("FontAwesome Regular"),
+         url(fonts/fontawesome-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DevIcons";
+    src: local("DevIcons"),
+         url(fonts/devicons-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Droid Sans Mono for Powerline";
+    src: local("Droid Sans Mono for Powerline"),
+         url(fonts/Droid+Sans+Mono+for+Powerline.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GlyphIcons Halflings";
+    src: local("GlyphIcons Halflings"),
+         url(fonts/glyphicons-halflings-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
