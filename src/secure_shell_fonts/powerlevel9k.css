@@ -101,3 +101,11 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: "Droid Sans Mono for Powerline Nerd Font Complete";
+    src: local("Droid Sans Mono for Powerline Nerd Font Complete"),
+         url(fonts/DroidSansMonoforPowerlineNerdFontComplete.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
