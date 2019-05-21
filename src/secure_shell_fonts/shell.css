@@ -1,0 +1,215 @@
+@font-face {
+    font-family: "AnonymousPro";
+    src: local("AnonymousPro"),
+    url(fonts/AnonymousPro.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DejaVuSansMono";
+    src: local("DejaVuSansMono"),
+    url(fonts/DejaVuSansMono.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DejaVuSansMonoBold";
+    src: local("DejaVuSansMonoBold"),
+    url(fonts/DejaVuSansMono-Bold.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DevIcons";
+    src: local("DevIcons"),
+    url(fonts/devicons-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DroidSansMonoAwesome";
+    src: local("DroidSansMonoAwesome"),
+         url(fonts/Droid+Sans+Mono+Awesome.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DroidSansMonoforPowerline";
+    src: local("DroidSansMonoforPowerline"),
+    url(fonts/Droid+Sans+Mono+for+Powerline.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DroidSansMonoforPowerlineNerdFontComplete";
+    src: local("DroidSansMonoforPowerlineNerdFontComplete"),
+    url(fonts/DroidSansMonoforPowerlineNerdFontComplete.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FontAwesomeRegular";
+    src: local("FontAwesomeRegular"),
+    url(fonts/fontawesome-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FontAwesomeWebfont";
+    src: local("FontAwesomeWebfont"),
+    url(fonts/fontawesome-webfont.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GlyphIconsHalflings";
+    src: local("GlyphIconsHalflings"),
+    url(fonts/glyphicons-halflings-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Hack";
+    src: local("Hack"),
+         url(fonts/hack-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Hack";
+    src: local("Hack"),
+         url(fonts/hack-bold.woff2) format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "HackRegularNerdFontCompleteMono";
+    src: local("HackRegularNerdFontCompleteMono"),
+         url(fonts/HackRegularNerdFontCompleteMono.woff2) format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "HackRegularNerdFontComplete";
+    src: local("HackRegularNerdFontComplete"),
+         url(fonts/HackRegularNerdFontComplete.woff2) format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "InconsolataAwesome";
+    src: local("InconsolataAwesome"),
+    url(fonts/Inconsolata+Awesome.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "InconsolataforPowerline";
+    src: local("InconsolataforPowerline"),
+    url(fonts/Inconsolata+for+Powerline.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "InconsolataNerdFontCompleteMono";
+    src: local("InconsolataNerdFontCompleteMono"),
+    url(fonts/InconsolataNerdFontCompleteMono.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "octicons";
+    src: local("octicons"),
+    url(fonts/octicons-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Pomicons";
+    src: local("Pomicons"),
+    url(fonts/pomicons-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SauceCodeProNerdFontCompleteMono";
+    src: local("SauceCodeProNerdFontCompleteMono"),
+         url(fonts/SauceCodeProNerdFontCompleteMono.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SauceCodeProNerdFontComplete";
+    src: local("SauceCodeProNerdFontComplete"),
+         url(fonts/SauceCodeProNerdFontComplete.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SourceCodePro";
+    src: local("SourceCodePro"),
+         url(fonts/SourceCodePro.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SourceCodePro";
+    src: local("SourceCodePro"),
+         url(fonts/SourceCodePro-Bold.woff2) format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SourceCodeProPowerline";
+    src: local("SourceCodeProPowerline"),
+         url(fonts/SourceCodeProforPowerline.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SourceCodeProPowerlineAwesome";
+    src: local("SourceCodeProPowerlineAwesome"),
+         url(fonts/SourceCodePro+Powerline+Awesome+Regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "trellicons";
+    src: local("trellicons"),
+    url(fonts/trellicons-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "UbuntuNerdFontCompleteMono";
+    src: local("UbuntuNerdFontCompleteMono"),
+    url(fonts/UbuntuNerdFontCompleteMono.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
